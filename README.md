@@ -4,7 +4,7 @@
 
 ## Data set I am using :-
 
-- Link to data set: Link [[https://www.kaggle.com/datasets/yt776styjsu/labeled-test-set-do-not-submit]]
+- Link to data set: Link [[https://www.kaggle.com/competitions/digit-recognizer/data]]
 
 ### Data spliting rations
 
